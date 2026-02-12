@@ -1,0 +1,24 @@
+{
+  "name": "graphql-course",
+  "version": "1.0.0",
+  "description": "improve knows about graphql project",
+  "homepage": "https://github.com/diegoferna/graphql-course#readme",
+  "bugs": {
+    "url": "https://github.com/diegoferna/graphql-course/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegoferna/graphql-course.git"
+  },
+  "license": "ISC",
+  "author": "Diego Nascimento",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.12.0"
+  }
+}
