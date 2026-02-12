@@ -1,0 +1,11 @@
+query GetHello {
+  user {
+    age
+    id
+    name
+  }
+  users {
+    age
+    name
+  }
+}
